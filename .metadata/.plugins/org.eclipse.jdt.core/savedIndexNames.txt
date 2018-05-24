@@ -61,7 +61,6 @@ INDEX VERSION 1.127+D:\training\05112018\eclipse-workspace-2\.metadata\.plugins\
 1191108893.index
 3738828644.index
 3618969570.index
-57852627.index
 4159355857.index
 3925721491.index
 2486942986.index

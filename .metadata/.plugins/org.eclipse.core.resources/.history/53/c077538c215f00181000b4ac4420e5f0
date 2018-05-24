@@ -10,6 +10,7 @@ import org.springframework.integration.annotation.ServiceActivator;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.cloud.stream.messaging.Processor;
 
+import com.example.demo.TollPublisher.Toll;
 
 @EnableBinding(Sink.class)
 //@EnableBinding(Processor.class)
@@ -33,7 +34,7 @@ public class FastpasstollIntakeApplication {
 	
 	
 	@StreamListener(Sink.INPUT)
-//	@ServiceActivator(inputChannel=Sink.INPUT)
+	@ServiceActivator(inputChannel=Sink.INPUT)
 	public void log(Toll message){
 		System.out.println(message);
 	}

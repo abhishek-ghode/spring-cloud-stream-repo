@@ -3,8 +3,7 @@ spring.rabbitmq.port=5672
 spring.rabbitmq.username=guest
 spring.rabbitmq.password=guest
 
-server.port=0
+server.port=8078
 
 spring.cloud.stream.bindings.input.destination=fastpasstoll
-#spring.cloud.stream.bindings.output.destination=fastpasstollstatus
-spring.cloud.stream.bindings.input.group=tollProcessingGroup
+spring.cloud.stream.bindings.output.destination=fastpasstollstatus

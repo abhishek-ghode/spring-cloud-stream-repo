@@ -23,7 +23,7 @@ public class TollPublisher {
 	Random r = new Random();
 
 	@Bean
-//	@InboundChannelAdapter(channel = "fastpassTollChannel"/*, poller = @Poller(fixedDelay = "2000")*/)
+	@InboundChannelAdapter(channel = "fastpassTollChannel"/*, poller = @Poller(fixedDelay = "2000")*/)
 	public MessageSource<Toll> sendTollCharge() {
 
 		// return () -> MessageBuilder.withPayload(new Toll("20", "100",
@@ -33,15 +33,11 @@ public class TollPublisher {
 
 	}
 	
-	static class Toll {
+	class Toll {
 		private String statioId;
 		private String customerId;
 		private String timestamp;
 
-		public Toll() {
-			// TODO Auto-generated constructor stub
-		}
-		
 		public Toll(String statioId, String customerId, String timestamp) {
 			this.statioId = statioId;
 			this.customerId = customerId;

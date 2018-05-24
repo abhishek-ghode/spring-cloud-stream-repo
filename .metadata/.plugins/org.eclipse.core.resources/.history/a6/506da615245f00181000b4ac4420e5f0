@@ -10,6 +10,7 @@ import org.springframework.integration.annotation.ServiceActivator;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.cloud.stream.messaging.Processor;
 
+import com.example.demo.TollPublisher.Toll;
 
 @EnableBinding(Sink.class)
 //@EnableBinding(Processor.class)
