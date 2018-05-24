@@ -24,9 +24,9 @@ public class FastpasstollIntakeApplication {
 
 	@StreamListener(Processor.INPUT)
 	@SendTo(Processor.OUTPUT)
-	public Toll log(Toll message){
+	@ServiceActivator(inputChannel=Sink.INPUT)
+	public void log(Toll message){
 		System.out.println(message);
-		return message;
 	}
 	
 	

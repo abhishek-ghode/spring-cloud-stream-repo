@@ -7,33 +7,16 @@ import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.integration.annotation.InboundChannelAdapter;
 import org.springframework.integration.annotation.ServiceActivator;
-import org.springframework.messaging.handler.annotation.SendTo;
-import org.springframework.cloud.stream.messaging.Processor;
 
 import com.example.demo.TollPublisher.Toll;
 
-//@EnableBinding(Sink.class)
-@EnableBinding(Processor.class)
-
-
+@EnableBinding(Sink.class)
 @SpringBootApplication
 public class FastpasstollIntakeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FastpasstollIntakeApplication.class, args);
 	}
-
-	@StreamListener(Processor.INPUT)
-	@SendTo(Processor.OUTPUT)
-	public Toll log(Toll message){
-		System.out.println(message);
-		return message;
-	}
 	
-	
-	
-	
-	
-/*	
 //	@StreamListener(Sink.INPUT)
 	@ServiceActivator(inputChannel=Sink.INPUT)
 	public void log(Toll message){
@@ -41,17 +24,17 @@ public class FastpasstollIntakeApplication {
 	}
 	
 		@StreamListener(target=Sink.INPUT, condition="headers['speed'] > 40")
-	public void logfast(Toll msg) {
+	public void logfast(String msg) {
 		System.out.println("fast = " + msg);
 		//return msg;
 	}
 	
 	@StreamListener(target=Sink.INPUT, condition="headers['speed'] <= 40")
-	public void logslow(Toll msg) {
+	public void logslow(String msg) {
 		System.out.println("slow = " + msg);
 		//return msg;
 	}
-*/	
+	
 
 	
 	

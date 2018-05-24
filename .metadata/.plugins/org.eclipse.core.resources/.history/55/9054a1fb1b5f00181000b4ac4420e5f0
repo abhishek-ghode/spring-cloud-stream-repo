@@ -7,7 +7,6 @@ import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.integration.annotation.InboundChannelAdapter;
 import org.springframework.integration.annotation.ServiceActivator;
-import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.cloud.stream.messaging.Processor;
 
 import com.example.demo.TollPublisher.Toll;
@@ -22,11 +21,10 @@ public class FastpasstollIntakeApplication {
 		SpringApplication.run(FastpasstollIntakeApplication.class, args);
 	}
 
-	@StreamListener(Processor.INPUT)
-	@SendTo(Processor.OUTPUT)
-	public Toll log(Toll message){
+	@StreamListener(Sink.INPUT)
+	@ServiceActivator(inputChannel=Sink.INPUT)
+	public void log(Toll message){
 		System.out.println(message);
-		return message;
 	}
 	
 	

@@ -8,5 +8,3 @@ spring.cloud.stream.bindings.fastpassTollChannel.destination=fastpasstoll
 #spring.cloud.stream.fastpasstollchannel.contentType=application/json
 spring.cloud.stream.fastpasstollchannel.contentType=application/x-java-object
 #spring.cloud.stream.default.contentType=application/json
-
-

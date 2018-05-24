@@ -21,11 +21,6 @@ public class TollPublisher {
 			this.timestamp = timestamp;
 		}
 
-		@Override
-		public String toString() {
-			// TODO Auto-generated method stub
-			return statioId + "/"+ customerId+ "/"+ timestamp;
-		}
 	}
 
 }
