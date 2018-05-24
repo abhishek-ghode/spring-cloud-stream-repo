@@ -1,0 +1,19 @@
+package com.example.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.stream.annotation.EnableBinding;
+import org.springframework.cloud.stream.messaging.Sink;
+import org.springframework.integration.annotation.InboundChannelAdapter;
+
+@EnableBinding(Sink.class)
+@SpringBootApplication
+public class FastpasstollIntakeApplication {
+
+	@InboundChannelAdapter(channel=Sink.INPUT)
+	public static void main(String[] args) {
+		SpringApplication.run(FastpasstollIntakeApplication.class, args);
+	}
+	
+	
+}

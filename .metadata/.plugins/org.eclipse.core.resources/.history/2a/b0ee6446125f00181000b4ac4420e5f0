@@ -1,0 +1,6 @@
+spring.rabbitmq.host=172.31.0.215
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=guest
+spring.rabbitmq.password=guest
+
+server.port=8078

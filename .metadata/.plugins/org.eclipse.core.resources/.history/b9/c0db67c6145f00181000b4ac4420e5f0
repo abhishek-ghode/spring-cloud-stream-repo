@@ -1,0 +1,39 @@
+package com.example.demo;
+
+import org.springframework.cloud.stream.annotation.EnableBinding;
+import org.springframework.cloud.stream.messaging.Source;
+import org.springframework.integration.annotation.InboundChannelAdapter;
+
+//@EnableBinding(Source.class)
+@EnableBinding(TollSource.class)
+public class TollPublisher {
+
+/*	@InboundChannelAdapter(channel=Source.OUTPUT)
+	public String sendTollCharge(){
+		 return
+	  "{station:\"20\",customerid:\"100\",timestamp:\"2018-05-12T03:15:00\"}";
+	}
+*/
+	
+	
+	class Toll{
+		private String statioId;
+		private String customerId;
+		private String timestamp;
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+}
+
+
+
+
+
+
+

@@ -8,6 +8,8 @@ import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.integration.annotation.InboundChannelAdapter;
 import org.springframework.integration.annotation.ServiceActivator;
 
+import com.example.demo.TollPublisher.Toll;
+
 @EnableBinding(Sink.class)
 @SpringBootApplication
 public class FastpasstollIntakeApplication {
@@ -17,7 +19,7 @@ public class FastpasstollIntakeApplication {
 	
 //	@StreamListener(Sink.INPUT)
 	@ServiceActivator(inputChannel=Sink.INPUT)
-	public void log(String message){
+	public void log(Toll message){
 		System.out.println(message);
 	}
 	

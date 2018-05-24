@@ -1,0 +1,222 @@
+2018-05-15 11:23:57,723 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-15 11:30:13,530 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\training\05112018\eclipse-workspace-2\eureka-server\pom.xml.
+2018-05-15 11:30:18,814 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2018-05-15 11:30:18,815 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2018-05-15 11:30:18,824 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2018-05-15 11:30:18,839 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2018-05-15 11:30:22,701 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2018-05-15 11:30:22,706 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-15 11:30:24,058 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\training\05112018\eclipse-workspace-2\eureka-server\pom.xml.
+2018-05-15 11:30:28,320 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2018-05-15 11:30:28,321 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2018-05-15 11:30:28,322 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2018-05-15 11:30:28,325 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2018-05-15 11:30:32,797 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2018-05-15 11:30:37,615 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:30:37,624 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:30:37,648 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:30:37,657 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:30:37,657 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:30:41,444 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:30:41,447 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:30:41,447 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:30:41,449 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:30:41,450 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:33:27,077 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @629838ms
+2018-05-15 11:33:27,199 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2018-05-15 11:33:27,250 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2c217e91{/help,null,AVAILABLE}
+2018-05-15 11:33:27,275 [Start Help Server] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@2ec89327{HTTP/1.1}{127.0.0.1:55779}
+2018-05-15 11:33:27,275 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @630037ms
+2018-05-15 11:33:33,192 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:33:33,201 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:33:33,212 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:33:33,216 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:33:33,216 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:35:11,855 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:35:11,861 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:35:11,872 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:35:11,877 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:35:11,878 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:36:11,173 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:36:11,174 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:36:11,187 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:36:11,197 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:36:11,198 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:43:06,914 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:43:06,915 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:43:06,927 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:43:06,931 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:43:06,932 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:43:22,703 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:43:22,705 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:43:22,719 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:43:22,725 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:43:22,725 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 11:55:52,021 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:55:52,024 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 11:55:52,040 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 11:55:52,051 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 11:55:52,052 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 12:03:49,534 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-fastpass-service:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\pom.xml.
+2018-05-15 12:03:53,342 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-tollrate-service:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-tollrate-service\pom.xml.
+2018-05-15 12:03:56,534 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-tollrate-service/src/main/java
+2018-05-15 12:03:56,534 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-tollrate-service/src/main/resources
+2018-05-15 12:03:56,535 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-tollrate-service/src/main/resources
+2018-05-15 12:03:56,536 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-tollrate-service/src/test/java
+2018-05-15 12:03:58,223 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-fastpass-service/src/main/java
+2018-05-15 12:03:58,223 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-fastpass-service/src/main/resources
+2018-05-15 12:03:58,224 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-fastpass-service/src/main/resources
+2018-05-15 12:03:58,232 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-fastpass-service/src/test/java
+2018-05-15 12:04:01,419 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 16 sec
+2018-05-15 12:04:11,899 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:04:11,899 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:04:11,916 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:04:11,976 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:04:11,976 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\src\test\resources
+2018-05-15 12:04:17,765 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:04:17,766 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:04:17,776 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:04:17,799 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:04:17,799 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-tollrate-service\src\test\resources
+2018-05-15 12:47:08,019 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:47:08,022 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:47:08,037 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 12:47:08,041 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:47:08,042 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\src\test\resources
+2018-05-15 12:49:16,730 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-fastpass-console:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\pom.xml.
+2018-05-15 12:49:28,254 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-fastpass-console/src/main/java
+2018-05-15 12:49:28,254 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-fastpass-console/src/main/resources
+2018-05-15 12:49:28,255 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-fastpass-console/src/main/resources
+2018-05-15 12:49:28,256 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-fastpass-console/src/test/java
+2018-05-15 12:49:30,235 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2018-05-15 12:49:37,139 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:49:37,139 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:49:37,145 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:49:37,184 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:49:37,188 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 12:49:59,347 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:49:59,392 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:49:59,400 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:49:59,468 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:49:59,468 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 12:50:20,570 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:50:20,579 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:50:20,622 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:50:20,640 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:50:20,640 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 12:53:13,224 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:53:13,237 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:53:13,248 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:53:13,281 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:53:13,282 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 12:58:36,069 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:58:36,077 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:58:36,086 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:58:36,111 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:58:36,111 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 12:59:14,183 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:59:14,190 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:59:14,199 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:59:14,222 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:59:14,223 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 12:59:32,636 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:59:32,645 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 12:59:32,655 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 12:59:32,675 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 12:59:32,676 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 13:05:46,768 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-15 13:05:52,280 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-fastpass-console:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\pom.xml.
+2018-05-15 13:05:58,120 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-fastpass-service:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\pom.xml.
+2018-05-15 13:05:59,882 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-tollrate-service:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-tollrate-service\pom.xml.
+2018-05-15 13:06:00,650 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ D:\training\05112018\eclipse-workspace-2\eureka-server\pom.xml.
+2018-05-15 13:06:07,230 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-fastpass-console/src/main/java
+2018-05-15 13:06:07,230 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-fastpass-console/src/main/resources
+2018-05-15 13:06:07,231 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pluralsight-eureka-fastpass-console/src/main/resources
+2018-05-15 13:06:07,231 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pluralsight-eureka-fastpass-console/src/test/java
+2018-05-15 13:06:09,177 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 22 sec
+2018-05-15 13:06:11,172 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:11,174 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:06:11,174 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:06:11,176 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:11,176 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-15 13:06:16,548 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:16,548 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 13:06:16,565 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-15 13:06:16,605 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:16,605 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 13:06:20,069 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:20,070 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:06:20,070 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:06:20,071 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:20,071 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\src\test\resources
+2018-05-15 13:06:24,936 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:24,936 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:06:24,937 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:06:25,008 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:06:25,008 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-tollrate-service\src\test\resources
+2018-05-15 13:08:21,064 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:08:21,065 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-15 13:08:21,076 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-15 13:08:21,078 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-15 13:08:21,078 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-15 20:16:14,665 [Stop Help Server] INFO  o.e.jetty.server.ServerConnector - Stopped ServerConnector@2ec89327{HTTP/1.1}{127.0.0.1:0}
+2018-05-15 20:16:14,782 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2c217e91{/help,null,UNAVAILABLE}
+2018-05-17 15:16:56,673 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-17 15:17:21,670 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:21,678 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:17:21,703 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-17 15:17:21,706 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:21,707 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-17 15:17:36,199 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:36,200 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:17:36,214 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-17 15:17:36,238 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:36,238 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-17 15:17:39,445 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pluralsight.demo:pluralsight-eureka-tollrate-billboard:0.0.1-SNAPSHOT @ D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\pom.xml.
+2018-05-17 15:17:45,125 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:45,127 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-17 15:17:45,127 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-17 15:17:45,132 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:45,132 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-17 15:17:49,408 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:49,409 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:17:49,422 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:17:49,427 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:49,429 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\src\test\resources
+2018-05-17 15:17:52,685 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:52,686 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:17:52,694 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:17:52,698 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:17:52,698 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-tollrate-service\src\test\resources
+2018-05-17 15:18:04,241 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:18:04,251 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-17 15:18:04,259 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-17 15:18:04,370 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-17 15:18:04,370 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-23 11:36:46,186 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-24 01:36:26,697 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-24 01:36:44,239 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:36:44,245 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 01:36:44,265 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-24 01:36:44,268 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:36:44,269 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\training\05112018\eclipse-workspace-2\eureka-server\src\test\resources
+2018-05-24 01:36:52,973 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:36:52,976 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 01:36:52,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-05-24 01:36:53,043 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:36:53,043 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
+2018-05-24 01:36:59,358 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:36:59,359 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 01:36:59,369 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 01:36:59,394 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:36:59,395 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-service\src\test\resources
+2018-05-24 01:37:04,510 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:37:04,511 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 01:37:04,518 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 01:37:04,547 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 01:37:04,547 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-tollrate-service\src\test\resources
+2018-05-24 07:49:31,973 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 07:49:32,024 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-24 07:49:32,037 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-24 07:49:32,053 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 07:49:32,054 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Learnings\spring cloud\docs\java-microservices-spring-cloud-coordinating-services\03\java-microservices-spring-cloud-coordinating-services-m2\before\pluralsight-eureka-fastpass-console\src\test\resources
